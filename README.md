@@ -1,2 +1,3 @@
 # Calculator-via-Python
-Its A calculator website Build with Html, Css, Java Script, Python
+Its A calculator build with Python.
+Also My First Project On Python
